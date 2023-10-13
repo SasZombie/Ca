@@ -81,13 +81,13 @@ if __name__ == "__main__":
 
     print(list_even);
     print(list_odd)
-
+    #Ex 5
     new_cube = Cube(3)
 
     print(new_cube.area())
     print(new_cube.area_of_all())
     print(new_cube.volume())
-
+    #Ex 6
     power = int(input())
     exponent = int(input())
 
